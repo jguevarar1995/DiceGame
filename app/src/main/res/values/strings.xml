@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DiceRoller</string>
+    <string name="init">Roll the Dice!</string>
+    <string name="roll_label">Roll</string>
+    <string name="reset">Reset</string>
+    <string name="total">Total: %d</string>
+    <string name="single">Single Mode?</string>
+</resources>
